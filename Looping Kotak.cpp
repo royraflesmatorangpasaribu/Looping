@@ -53,10 +53,10 @@ void kotak(int baris1,int kolom1,int baris2,int kolom2)
 
 int main(){
     
-    //mengawali layar untuk ncurses
+//mengawali layar untuk ncurses
   initscr();
   
-  //membersihkan layar
+//membersihkan layar
   clear();
   
   kotak(5,20,10,35);
