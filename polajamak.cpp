@@ -1,6 +1,7 @@
 #include<iostream>
 using namespace std;
 
+//minimal harus ada satu fungsi dalam program C++
 int main(){
 	//deklarasi variabel yang digunakan
 	int tinggiP=5;
@@ -13,10 +14,12 @@ int main(){
 			for(k=1; k<=tinggiP; k++){
 				if(i==k || i+k==tinggiP+1)
 				cout<<">>";
-			else
-			cout<<" ";
+				else
+				cout<<" ";
 			}
 		}
 		cout<<endl;
 	}
+	//karena menggunakan fungsi main()
+	return 0;
 }
