@@ -1,0 +1,17 @@
+#include<iostream>
+using namespace std;
+
+//dibuat oleh Roy Rafles Matorang Pasaribu
+
+//fungsi utama di dalam C++
+int main(){
+    //variabel yang digunakan
+    int n=5, a=5, r=2;
+    
+    //looping yang membentuk deret geometri
+    for(int i=1; i<=n; i++){
+       cout<<" "<<a;
+       a=a*r;
+    }
+return 0;
+}
