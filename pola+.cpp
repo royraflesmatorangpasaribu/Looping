@@ -2,19 +2,20 @@
 using namespace std;
 
 int main(){
-	int n=5;
-	int m=n/2+1;
+	//variabel yang digunakan
+	int i, j;
 	
-	for(int i=1; i<=n; i++){
-		for(int j=1; j<=n; j++){
-			if(i==m || j==m)
-				cout<<abs(i-j)<<" ";
-			else{
-				cout<<"  ";
-			}	
-			
+	//looping yang membentuk pola
+	for(i=1; i<=5; i++){
+		for(j=1; j<=5; j++){
+			if(j==3||i==3)
+			cout<<"*";
+			else
+			cout<<" ";
 		}
+		//membuat baris baru
 		cout<<endl;
 	}
+	//karena menggunakan fungsi main()
 	return 0;
 }
