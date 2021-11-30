@@ -1,3 +1,4 @@
+//library dalam C++ 
 #include<iostream>
 using namespace std;
 
@@ -11,7 +12,7 @@ int main(){
 			if(j==3||i==3)
 			cout<<"*";
 			else
-			cout<<" ";
+			cout<<" "; //1 spasi
 		}
 		//membuat baris baru
 		cout<<endl;
