@@ -1,6 +1,5 @@
 #include<iostream>
 using namespace std;
-
 //fungsi utama dalam program
 int main(){
 	//variabel
