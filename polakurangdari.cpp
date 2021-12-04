@@ -6,11 +6,11 @@ int main(){
 	//deklarasi variabel
 	int n=7, x=n/2+1;
 	
-	//looping pola
+	//looping yang membentuk pola
 	for(int i=1; i<=n; i++){
 		for(int j=1; j<=x; j++){
 			if(j==x)
-			cout<<"* ";
+			cout<<"* "; //1 karater lalu 1 spasi
 			else
 			cout<<"  "; // 2 spasi
 		}
