@@ -4,6 +4,7 @@ using namespace std;
 
 //minimal terdapat satu fungsi dalam bahasa C++
 int main(){
+	
 	//variabel yang digunakan
 	char str[]="ROY"; //disini bebas mau menggunakan kalimat apa disini karena nama saya Roy jadi saya masukkan roy 
 	int len=strlen(str); //Fungsi strlen() digunakan untuk menghitung panjang string.
