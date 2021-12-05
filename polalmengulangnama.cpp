@@ -11,7 +11,7 @@ int main(){
 	//looping yang membentuk pola
 	for(i=0; i<len; i++){
 		for(j=0; j<=i; j++){
-			cout<<arr[j]<<" "; 
+			cout<<arr[j]<<" "; //1 spasi
 		}
 		cout<<endl;
 	}
