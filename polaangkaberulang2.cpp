@@ -4,7 +4,8 @@ using namespace std;
 //minimal terdapat 1 fungsi
 int main(){
 	//variabel yang digunakan
-	int n=5, x=n+1;
+	int n=5;
+	int x=n+1;
 	
 	//looping yang membentuk pola
 	for(int i=1; i<=n; i++){
