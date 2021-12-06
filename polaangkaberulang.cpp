@@ -6,7 +6,7 @@ int main(){
 	//variabel yang digunakan
 	int n=5, x=n;
 	
-	//looping 
+	//looping yang membentuk pola
 	for(int i=1; i<=n; i++){
 		for(int j=1; j<=x; j++){
 			if(i<=n/2+1){
