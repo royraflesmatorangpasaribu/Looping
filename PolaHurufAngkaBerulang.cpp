@@ -5,13 +5,13 @@ int main(){
 	//deklarasi variabel
 	int n=5;
 	
-	//looping pola
+	//looping yang membentuk pola
 	for(int i=1; i<=n; i++){
 		for(int j=1; j<=n; j++){
 			if(j<=i)
-			cout<<(n-i+1)<<" ";
+			cout<<(n-i+1)<<" "; // 1 spasi
 			else
-			cout<<(char)(i+64)<<" ";
+			cout<<(char)(i+64)<<" "; // 1 spasi
 		}
 		cout<<endl;
 	}
