@@ -8,7 +8,7 @@ int main(){
 	//looping yang membentuk pola
 	for(int i=0; i<n; i++){
 		for(int j=n-1; j>i; j--){
-			cout<<" ";
+			cout<<" "; // 1 spasi
 		}
 		for(int k=0; k<n; k++){
 			cout<<"*";
