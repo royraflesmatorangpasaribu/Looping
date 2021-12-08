@@ -11,9 +11,9 @@ int main(){
 	for(int i=1; i<=n; i++){
 		for(int j=1; j<=n; j++){
 			if(j==mid || i==n || (i+j==mid && j<=mid))
-			cout<<"* ";
+			cout<<"* "; //setelah karakter * berikan 1 spasi
 			else
-			cout<<"  ";
+			cout<<"  "; // 2 spsasi
 		}
 		cout<<endl;
 	}
