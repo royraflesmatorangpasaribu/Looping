@@ -15,7 +15,7 @@ void waktu(){
 		system("cls");	//menghapus layar
 	}
 }
-
+//fungsi utama program
 int main(){
 	//memanggil prosedur fungsi waktu
 	waktu();
