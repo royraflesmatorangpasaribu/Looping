@@ -11,8 +11,8 @@ void waktu(){
 	for(int i=5; i>=0 ; i--){
 		cout << "waktu : ";
 		cout << i;
-		Sleep(1000);
-		system("cls");	
+		Sleep(1000);   
+		system("cls");	//menghapus layar
 	}
 }
 
