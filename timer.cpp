@@ -1,10 +1,8 @@
 #include <iostream>
 #include <windows.h>
-
 using namespace std;
 
-int score=0;
-
+//fungsi prosedur waktu
 void waktu(){
 	
 	int i;
@@ -15,15 +13,12 @@ void waktu(){
 		Sleep(1000);
 		system("cls");
 		
-		if(i==0){
-		cout << "WAKTU HABIS\n";
-		cout << "Score : " << score;
-		}
 	}
 	
 	
 }
 
 int main(){
+	//memanggil prosedur fungsi waktu
 	waktu();
 }
