@@ -2,6 +2,7 @@
 using namespace std;
 
 int main(){
+	//delarasi variabel
 	int row, col;
 	for(row=0; row<6; row++){
 		for(col=0;col<7;col++){
