@@ -15,7 +15,9 @@ int main(){
 				cout<<"  ";  // 2 spasi
 			}
 		}
+		//memberikan baris baru
 		cout<<endl;
 	}
+	
 	return 0;
 }
