@@ -12,7 +12,7 @@ int main(){
 				cout<<"* ";  // 1 karakter lalu spasi
 			}
 			else{
-				cout<<"  ";
+				cout<<"  ";  // 2 spasi
 			}
 		}
 		cout<<endl;
