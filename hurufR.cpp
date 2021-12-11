@@ -23,5 +23,6 @@ int main(){
 		x++;
 		cout<<endl;
 	}
+	//karena menggunakan fungsi main()
 	return 0;
 }
