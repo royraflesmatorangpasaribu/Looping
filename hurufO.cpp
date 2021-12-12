@@ -16,7 +16,7 @@ int main(){
 				cout<<"O "; // huruf 0 lalu 1 spasi
 			}
 			else{
-				cout<<"  ";
+				cout<<"  "; // 2 spasi
 			}
 		}
 		cout<<endl;
