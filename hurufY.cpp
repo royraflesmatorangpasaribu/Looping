@@ -1,8 +1,9 @@
 #include <iostream>
 using namespace std;
 
-//minimal terdapat 1 fungsi main()
+//minimal terdapat 1 fungsi 
 int main(){
+	
 	//deklarasi variabel
 	int n=5;
 	
