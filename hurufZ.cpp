@@ -15,7 +15,8 @@ int main(){
 				cout<<"  "; // 2 spasi
 			}
 		}
-		cout<<endl;
+		cout<<endl; //menbuat baris baru (endline)
 	}
+	//karena menggunakan fungsi main()
 	return 0;
 }
