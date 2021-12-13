@@ -16,10 +16,10 @@ int main(){
 				cout<<"* "; // 1 karakter lalu spasi
 			}
 			else{
-				cout<<"  ";
+				cout<<"  "; // 2 spasi
 			}
 		}
-		cout<<endl;
+		cout<<endl; //membuat baris baru
 	}
 	return 0;
 }
