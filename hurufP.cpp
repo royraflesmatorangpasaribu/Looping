@@ -21,5 +21,6 @@ int main(){
 		}
 		cout<<endl; //membuat baris baru
 	}
+	//karena menggunakan fungsi main()
 	return 0;
 }
