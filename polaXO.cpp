@@ -9,7 +9,7 @@ int main(){
 			if(i<=j)
 			cout<<"o"; //1 karakter yang mau ditampilkan
 			else
-			cout<<"x";
+			cout<<"x"; //1 karakter yang mau ditampilkan
 		}
 		cout<<endl;
 	}
