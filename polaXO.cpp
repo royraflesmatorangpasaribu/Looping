@@ -7,7 +7,7 @@ int main(){
 	for(int i=1; i<=5; i++){
 		for(int j=1; j<=5; j++){
 			if(i<=j)
-			cout<<"o";
+			cout<<"o"; //1 karakter yang mau ditampilkan
 			else
 			cout<<"x";
 		}
