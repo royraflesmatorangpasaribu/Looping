@@ -11,7 +11,7 @@ int main(){
 			else
 			cout<<"x"; //1 karakter yang mau ditampilkan
 		}
-		cout<<endl;
+		cout<<endl; //mencetak baris baru
 	}
 	return 0;
 }
