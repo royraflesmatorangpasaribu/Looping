@@ -11,9 +11,9 @@ int main(){
 			if((j==1||j==n)||(i==1||i==n))
 			cout<<"*";	//karakter yang akan ditampilkan di tepi
 			else
-			cout<<"#";
+			cout<<"#";	//karakter yang akan ditampilkan di dalam
 		}
-		cout<<endl;
+		cout<<endl; //mencetak baris baru
 	}
 	return 0;
 }
