@@ -7,6 +7,7 @@ int main(){
 	int px=n/2+1;
 	int i,j;
 	
+	//looping yang membentuk pola
 	for(i=1; i<=n; i++){
 		for(j=1; j<=n; j++){
 			if(j==px || j==n-px+1){
