@@ -25,5 +25,6 @@ int main(){
 		px++;
 		cout<<endl;
 	}
+	//karena menggubnakan fungsi main()
 	return 0;
 }
