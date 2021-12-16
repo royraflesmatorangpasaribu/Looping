@@ -5,7 +5,7 @@ using namespace std;
 int main(){
 	
 	//deklarasi variabel
-	float n=5;
+	int n=5;
 	
 	//looping yang membentuk pola
 	for(int i=1; i<=n; i++){
