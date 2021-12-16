@@ -14,7 +14,7 @@ int main(){
 				cout<<" * "; // 1 spasi bintang 1 spasi
 			}
 			else{
-				cout<<"   ";
+				cout<<"   "; // 3 spasi
 			}
 		}
 		if(i<=n/2)
