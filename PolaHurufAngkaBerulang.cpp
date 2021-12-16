@@ -15,7 +15,7 @@ int main(){
 			else
 			cout<<(char)(i+64)<<" "; // 1 spasi
 		}
-		cout<<endl;
+		cout<<endl;  //mencetak baris baru
 	}
 	//karena menggunakan fungsi main()
 	return 0;
