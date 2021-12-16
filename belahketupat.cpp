@@ -3,7 +3,7 @@ using namespace std;
 
 int main(){
 	//deklarasi variabel
-	int n=9;
+	float n=9;
 	int px=n/2+1;
 	int i,j;
 	
