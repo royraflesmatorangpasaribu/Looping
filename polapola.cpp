@@ -1,6 +1,7 @@
 #include<iostream>
 using namespace std;
 
+//minimal terdapat satu fungsi
 int main(){
 	int n=7;
 	int x=1;
