@@ -15,7 +15,7 @@ int main(){
 				cout<<"*"; //karakter bintang
 			}
 			else{
-				cout<<" ";
+				cout<<" "; //1 spasi
 			}
 		}
 		if(i<=n/2)
