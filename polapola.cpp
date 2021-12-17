@@ -24,5 +24,6 @@ int main(){
 		x--;
 		cout<<endl; //membentuk baris baru
 	}
+	//karena menggunakan fungsi main()
 	return 0;
 }
