@@ -22,7 +22,7 @@ int main(){
 		x++;
 		else
 		x--;
-		cout<<endl;
+		cout<<endl; //membentuk baris baru
 	}
 	return 0;
 }
