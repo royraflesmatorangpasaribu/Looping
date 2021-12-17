@@ -12,7 +12,7 @@ int main(){
 	for(int i=1; i<=n; i++){
 		for(int j=1; j<=n; j++){
 			if(j==x || j==n-x+1 || j==1 || j==n){
-				cout<<"*";
+				cout<<"*"; //karakter bintang
 			}
 			else{
 				cout<<" ";
