@@ -10,17 +10,18 @@ int main(){
 	for(int i=1; i<=n; i++){
 		for(int j=1; j<=n; j++){
 			if(j==x || j==n-x+1 || i==1 || i==n){
-				cout<<"*";
+				cout<<"*"; 	//karakter bintang
 			}
 			else{
-				cout<<" ";
+				cout<<" ";	//1 spasi
 			}
 		}
 		if(i<=n/2)
 		x++;
 		else
 		x--;
-		cout<<endl;
+		cout<<endl;	//mencetak baris baru
 	}
+	//karena menggunakan fungsi main()
 	return 0;
 }
