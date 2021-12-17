@@ -3,6 +3,8 @@ using namespace std;
 
 //minimal terdapat satu fungsi
 int main(){
+	
+	//deklarasi variabel
 	int n=7;
 	int x=1;
 	for(int i=1; i<=n; i++){
