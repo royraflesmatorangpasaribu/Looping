@@ -10,13 +10,13 @@ int main(){
 	for(int i=1; i<=n; i++){
 		for(int j=1; j<=n; j++){
 			if(i==1||i==n||j==1||j==n||i+j==n+1){
-				cout<<"* ";
+				cout<<"* "; //1 karakter 1 spasi
 			}
 			else{
-				cout<<"  ";
+				cout<<"  "; // 2 spasi
 			}
 		}
-		cout<<endl;
+		cout<<endl; //
 	}
 	return 0;
 }
