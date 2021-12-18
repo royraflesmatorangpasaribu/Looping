@@ -3,7 +3,7 @@ using namespace std;
 
 //minimal terdapat 1 fungsi dalam program
 int main(){
-	//deklarasi
+	//deklarasi variabel
 	int n=5;
 	
 	for(int i=1; i<=n; i++){
