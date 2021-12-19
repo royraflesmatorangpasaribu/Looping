@@ -1,0 +1,14 @@
+Materi Looping
+Sumber : APPKEY (https://appkey.id/pembuatan-website/web-programming/looping-adalah/)
+
+While loop    : normalnya digunakan untuk mengulang kode tertentu sebanyak waktu yang tidak diketahui, 
+                hingga suatu kondisi terpenuhi. Contoh: jika kita ingin menanyakan pada pengguna untuk 
+                angka antara 1 dan 10. Kita tidak mengetahui seberapa banyak pengguna akan memasukkan   
+                angka yang lebih besar dari 10, sehingga kita akan tetap menanyakan ‘Selagi angkanya 
+                tidak di antara 1 dan 10’.
+                
+Do while loop : merupakan control flow statement yang mengeksekusi kode paling tidak sekali dan kemudian 
+                secara berulang menjalankan kodenya atau tergantung pada kondisi Boolean nya untuk menjalankan kodenya diakhir.
+                
+For loop      : merupakan statement control flow untuk iterasi khusus, yang memungkinkan kode untuk dijalankan berulang. 
+                Loop ini baik digunakan jika kita mengetahui seberapa banyak kita akan menjalankan bagian dari kode tersebut.
