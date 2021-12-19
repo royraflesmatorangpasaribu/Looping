@@ -1,6 +1,8 @@
 Materi Looping
 Sumber : APPKEY (https://appkey.id/pembuatan-website/web-programming/looping-adalah/)
 
+Jenis-Jenis Looping Adalah Sebagai Berikut :
+
 While loop    : normalnya digunakan untuk mengulang kode tertentu sebanyak waktu yang tidak diketahui, 
                 hingga suatu kondisi terpenuhi. Contoh: jika kita ingin menanyakan pada pengguna untuk 
                 angka antara 1 dan 10. Kita tidak mengetahui seberapa banyak pengguna akan memasukkan   
