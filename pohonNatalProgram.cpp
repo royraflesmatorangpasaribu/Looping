@@ -1,6 +1,6 @@
 #include<iostream> 
 using namespace std;  
-main(){  
+int main(){  
 	int i , j , k, tinggi ;  
 	cout<<"Program Membentuk Pohon Natal"<<endl;
 	cout<<"Masukan Tinggi Pohon : ";  
@@ -17,5 +17,5 @@ main(){
 				}  
 				cout<<endl;  
 	}  
- 
+ 	return 0;
 }
