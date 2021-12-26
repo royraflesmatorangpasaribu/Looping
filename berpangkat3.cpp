@@ -3,6 +3,7 @@ using namespace std;
 
 //program dibuat oleh Roy Rafles Matorang Pasaribu
 
+//minimal terdapat satu fungsi di dalam program c++
 int main(){
 	//inisilisasi variabel n
 	//berapa banyak yang ingin ditampilkan
