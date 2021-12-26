@@ -17,5 +17,5 @@ int main(){
 		cout<<" "<<a;
 		a=a*r;
 	}
-	
+	//karena menggunakan fungsi main()
 }
