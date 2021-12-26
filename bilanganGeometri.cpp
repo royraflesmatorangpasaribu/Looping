@@ -18,4 +18,5 @@ int main(){
 		a=a*r;
 	}
 	//karena menggunakan fungsi main()
+	return 0;
 }
