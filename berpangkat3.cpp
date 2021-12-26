@@ -1,6 +1,5 @@
 #include<iostream>
 using namespace std;
-
 //program dibuat oleh Roy Rafles Matorang Pasaribu
 
 int main(){
