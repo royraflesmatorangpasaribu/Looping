@@ -8,4 +8,5 @@ int main(){
 	for(int i=1; i<=n; i++){
 		cout<<" "<<(i*i*i);
 	}
+	return 0;
 }
