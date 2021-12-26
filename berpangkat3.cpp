@@ -11,5 +11,6 @@ int main(){
 	for(int i=1; i<=n; i++){
 		cout<<" "<<(i*i*i);
 	}
+	//karena menggunakan fungsi main()
 	return 0;
 }
