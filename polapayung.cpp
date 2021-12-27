@@ -3,6 +3,8 @@ using namespace std;
 
 //minimal terdapat satu fungsi dalam program c++
 int main(){
+	
+	//deklarasi variabel
 	int n=7;
 	int x=n/2+1;
 	
