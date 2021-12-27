@@ -21,5 +21,6 @@ int main(){
 		cout<<endl;
 		x++;
 	}
+	//karena menggunakan fungsi main()
 	return 0;
 }
