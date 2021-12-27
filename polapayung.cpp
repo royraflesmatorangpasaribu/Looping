@@ -12,7 +12,7 @@ int main(){
 	for(int i=1; i<=n; i++){
 		for(int j=1; j<=n; j++){
 			if(j==n/2+1||(j<=x&& j>=n-x+1&& i<=n/2+1)){
-				cout<<"* "; //1 spasi
+				cout<<"* "; //karakter bintang lalu 1 spasi
 			}
 			else{
 				cout<<"  "; //2 spasi
