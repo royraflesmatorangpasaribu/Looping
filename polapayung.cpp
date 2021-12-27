@@ -1,6 +1,7 @@
 #include<iostream>
 using namespace std;
 
+//minimal terdapat satu fungsi dalam program c++
 int main(){
 	int n=7;
 	int x=n/2+1;
