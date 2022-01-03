@@ -13,7 +13,7 @@ int main(){
 				cout<<i<<" ";
 			}
 			else{
-				cout<<"  ";
+				cout<<"  "; // 2 spasi
 			}
 		}
 		cout<<endl;
