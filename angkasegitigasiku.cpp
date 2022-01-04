@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 
-//minimal terdapat satu fungsi 
+//minimal terdapat satu fungsi dalam program
 int main(){
 	//deklarasi variabel
 	int n=5;
@@ -18,5 +18,6 @@ int main(){
 		}
 		cout<<endl;  //mencetak baris baru
 	}
+	//karena menggunakan fungsi main()
 	return 0;
 }
