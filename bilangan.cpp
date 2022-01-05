@@ -1,6 +1,10 @@
 #include<iostream>
 using namespace std;
 
+//program ini dibuat oleh roy rafles matorang pasaribu
+//pada 05 Januari 2022
+
+//
 int main(){
 	int n=7;
 	int x=1;
