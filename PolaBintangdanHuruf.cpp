@@ -6,6 +6,7 @@ using namespace std;
 
 //minimal tedapat satu fungsi
 int main(){
+	//deklarasi variabel
 	int n=5;
 	char x='A';
 	
