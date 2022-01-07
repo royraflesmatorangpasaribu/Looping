@@ -1,6 +1,10 @@
 #include<iostream>
 using namespace std;
 
+//program dibuat oleh Roy Rafles Matorang Pasaribu
+//pada 07 Januari 2022
+
+//
 int main(){
 	int n=5;
 	
