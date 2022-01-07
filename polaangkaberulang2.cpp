@@ -23,7 +23,6 @@ int main(){
 		else
 		x+=2;
 	}
-	
 	//karena menggunakan fungsi main()
 	return 0;
 }
