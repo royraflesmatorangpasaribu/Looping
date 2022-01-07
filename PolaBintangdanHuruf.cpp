@@ -4,6 +4,7 @@ using namespace std;
 //program dibuat oleh roy rafles matorang pasaribu
 //pada 08 Januari 2022
 
+//minimal tedapat satu fungsi
 int main(){
 	int n=5;
 	char x='A';
