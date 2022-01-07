@@ -10,6 +10,7 @@ int main(){
 	int n=5;
 	char x='A';
 	
+	//looping yang membentuk pola
 	for(int i=1; i<=n; i++){
 		for(int j=1; j<=n; j++){
 			if((i+j)%2==1){
