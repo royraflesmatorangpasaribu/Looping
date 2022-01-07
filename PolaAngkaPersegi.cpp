@@ -17,5 +17,6 @@ int main(){
 		}
 		cout<<endl;
 	}
+	//karena menggunakan fungsi main()
 	return 0;
 }
