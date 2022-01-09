@@ -2,6 +2,7 @@
 using namespace std;
 
 //dibuat oleh roy rafles matorang pasaribu
+//dibuat pada 09 desember 2022
 
 int main(){
 	int i, j;
