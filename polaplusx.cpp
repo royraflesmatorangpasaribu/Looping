@@ -5,6 +5,7 @@ using namespace std;
 //dibuat pada 09 desember 2022
 
 int main(){
+	//deklarasi variabel
 	int i, j;
 	
 	for(i=1; i<=5; i++){
