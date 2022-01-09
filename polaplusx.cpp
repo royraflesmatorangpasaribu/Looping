@@ -1,5 +1,8 @@
 #include<iostream>
 using namespace std;
+
+//dibuat oleh roy rafles matorang pasaribu
+
 int main(){
 	int i, j;
 	
