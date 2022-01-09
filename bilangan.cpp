@@ -26,6 +26,7 @@ int main(){
 		x--;
 		cout<<endl;
 	}
+	
 	//karena menggunaka fungsi main()
 	return 0;
 }
