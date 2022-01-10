@@ -16,10 +16,10 @@ int main(){
 				cout<<(char)(j+64);
 			}
 			else{
-				cout<<" ";
+				cout<<" "; // 1 spasi
 			}
 		}
-		cout<<endl;
+		cout<<endl;  //mencetak baris baru
 	}
-	return 0;
+	return 0;  //karena menggunakan fungsi main()
 }
