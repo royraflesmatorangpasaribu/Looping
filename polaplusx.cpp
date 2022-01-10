@@ -8,6 +8,7 @@ int main(){
 	//deklarasi variabel
 	int i, j;
 	
+	//looping yang membentuk pola
 	for(i=1; i<=5; i++){
 		for(j=1; j<=5; j++){
 			if(j==3||i==3)
