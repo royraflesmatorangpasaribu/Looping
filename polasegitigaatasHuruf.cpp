@@ -2,7 +2,7 @@
 using namespace std;
 
 //dibuat oleh Roy Rafles Matorang Pasaribu
-//pada 10 Januari 2021
+//pada 10 Januari 2022
 
 int main(){
 	int n=5;
