@@ -16,6 +16,7 @@ int main(){
 			else
 			cout<<"o";
 		}
+		//mencetak baris baru
 		cout<<endl;
 	}
 	return 0;
