@@ -2,6 +2,8 @@
 using namespace std;
 
 //program dibuat oleh roy rafles matorang pasaribu
+//pada 11 Januari 2022
+
 int main(){
 	int n=5;
 	
