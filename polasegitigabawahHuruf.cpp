@@ -4,6 +4,7 @@ using namespace std;
 //program dibuat oleh roy rafles matorang pasaribu
 //pada 11 Januari 2022
 
+//minimal terdapat satu fungsi dalam program 
 int main(){
 	//deklarasi variabel
 	int n=5;
