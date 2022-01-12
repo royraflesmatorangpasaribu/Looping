@@ -8,6 +8,8 @@ using namespace std;
 int main(){
 	//mendeklrasasikan variabel
 	int i, j, k, l;
+	
+	//looping yang membentuk pola
 	for(i=1; i<=3; i++){
 		for(j=2; j>0; j--){
 			for(k=2; k>=i; k--){
