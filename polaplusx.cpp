@@ -4,6 +4,7 @@ using namespace std;
 //dibuat oleh roy rafles matorang pasaribu
 //dibuat pada 09 desember 2022
 
+//minimal terdapat satu fungsi dalam program
 int main(){
 	//deklarasi variabel
 	int i, j;
