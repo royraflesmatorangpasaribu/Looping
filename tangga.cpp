@@ -13,7 +13,7 @@ int main(){
 	for(i=1; i<=3; i++){
 		for(j=2; j>0; j--){
 			for(k=2; k>=i; k--){
-				cout<<" ";
+				cout<<" ";	//1 spasi
 			}
 			for(l=0; l<i; l++){
 				cout<<"*";
