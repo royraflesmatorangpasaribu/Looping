@@ -18,8 +18,8 @@ int main(){
 			for(l=0; l<i; l++){
 				cout<<"*";
 			}
-			cout<<endl;
+			cout<<endl;		//mencetak baris baru
 		}
 	}
-	return 0;
+	return 0;				//karena menggunakan fungsi main()
 }
