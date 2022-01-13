@@ -20,7 +20,7 @@ int main() {
             for(int j=1; j<=i; j++){
                 cout <<i <<" ";
             }
-           cout <<endl;
+           cout <<endl;     //mencetak baris baru
         }
     }else{
         cout <<"Bilangan tidak sesuai!"<<endl;
