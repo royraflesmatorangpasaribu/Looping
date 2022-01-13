@@ -1,3 +1,4 @@
+//libbrary dari HackerRank
 #include <cmath>
 #include <cstdio>
 #include <vector>
