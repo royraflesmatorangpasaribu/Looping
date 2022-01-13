@@ -6,7 +6,7 @@
 #include <algorithm>
 using namespace std;
 
-
+//Fungsi
 int main() {
     int n;
     cin >>n;
