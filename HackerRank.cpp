@@ -8,6 +8,7 @@ using namespace std;
 
 //Fungsi
 int main() {
+    //deklarasi variabel
     int n;
     cin >>n;
     if (n>-10 && n<10){
