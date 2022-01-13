@@ -10,6 +10,8 @@ using namespace std;
 int main() {
     //deklarasi variabel
     int n;
+    
+    //input
     cin >>n;
     if (n>-10 && n<10){
        for(int i=n; i>=1; i--){
