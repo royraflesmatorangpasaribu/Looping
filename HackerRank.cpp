@@ -15,7 +15,7 @@ int main() {
     cin >>n;
     
     //looping
-    if (n>-10 && n<10){
+    if (){
        for(int i=n; i>=1; i--){
             for(int j=1; j<=i; j++){
                 cout <<i <<" ";
@@ -23,7 +23,7 @@ int main() {
            cout <<endl;     //mencetak baris baru
         }
     }else{
-        cout <<"Bilangan tidak sesuai!"<<endl;
+        cout <<"Bilangan tidak sesuai!"<<endl;  //pengkondisian ketika n diluar rentang n>-10 && n<10
     }  
     
     return 0;
