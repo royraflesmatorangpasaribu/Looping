@@ -26,5 +26,6 @@ int main() {
         cout <<"Bilangan tidak sesuai!"<<endl;  //pengkondisian ketika n diluar rentang n>-10 && n<10
     }  
     
+    //karena menggunakan fungsi main()
     return 0;
 }
