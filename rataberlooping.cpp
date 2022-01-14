@@ -11,6 +11,7 @@ string loop="Y";
 //fungsi
 penjumlahan(int N){
 	for(i=1; i<=N; i++){
+		//input
 		cout << "MASUKKAN DATA KE-"<<i<<" = ";
 		cin >> x;
 		jumlah = jumlah + x;	
