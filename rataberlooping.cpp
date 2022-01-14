@@ -32,6 +32,7 @@ stm(string a){
 	cin>>loop;		
 }
 
+//fungsi utama
 int main(){
 	cout << "SELAMAT DATANG DI SISTEM RATA-RATA BILANGAN\n";
 	do{
