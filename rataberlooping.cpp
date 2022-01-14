@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 
+//deklarasi variabel
 int n,i,x,jumlah=0,hasil=0;
 string loop="Y";
 
