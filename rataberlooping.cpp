@@ -15,6 +15,7 @@ penjumlahan(int N){
 	return jumlah;
 }
 
+//fungsi
 stm(string a){
 	cout << "\nMASUKKAN N = ";
 	cin >> n;
