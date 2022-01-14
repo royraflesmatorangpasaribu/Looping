@@ -41,4 +41,6 @@ int main(){
 	do{
 		stm(loop);	
 	}while(loop=="Y");
+	
+	return 0;
 }
