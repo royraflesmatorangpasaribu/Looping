@@ -1,6 +1,9 @@
 #include <iostream>
 using namespace std;
 
+//dibuat pada 14 Januari 2022
+
+
 //deklarasi variabel
 int n,i,x,jumlah=0,hasil=0;
 string loop="Y";
