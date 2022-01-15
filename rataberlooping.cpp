@@ -21,6 +21,7 @@ penjumlahan(int N){
 
 //fungsi
 stm(string a){
+	//input
 	cout << "\nMASUKKAN N = ";
 	cin >> n;
 	if(a=="Y"){
