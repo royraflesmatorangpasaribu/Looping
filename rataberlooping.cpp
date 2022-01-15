@@ -4,7 +4,6 @@ using namespace std;
 //dibuat pada 14 Januari 2022
 //oleh roy rafles matorang pasaribu
 
-
 //deklarasi variabel
 int n,i,x,jumlah=0,hasil=0;
 string loop="Y";
