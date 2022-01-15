@@ -2,6 +2,7 @@
 using namespace std;
 
 //dibuat pada 14 Januari 2022
+//oleh roy rafles matorang pasaribu
 
 
 //deklarasi variabel
