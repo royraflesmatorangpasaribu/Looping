@@ -26,6 +26,7 @@ stm(string a){
 	cin >> n;
 	if(a=="Y"){
 		hasil = penjumlahan(n);
+		//output
 		cout << "=================================\n";
 		cout << "JUMLAH    = "<<hasil;
 		cout << "\nRATA-RATA = "<<hasil/n<<endl;
