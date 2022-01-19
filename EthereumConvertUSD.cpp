@@ -20,6 +20,8 @@ int main(){
 	ratarata = total/x;
 	usd = total * 4000;
 	system("CLS");
+	
+	//output
 	cout<<"Program by royrafmp"<<endl;
 	cout<<"Rata-Rata : "<<ratarata<<" ETH "<<endl;
 	cout<<"Total ETH : "<<total<<" ETH "<<endl;
