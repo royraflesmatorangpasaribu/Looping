@@ -8,7 +8,11 @@ using namespace std;
 int main(){
 	cout<<"Program Menghitung Rata-Rata dan Total serta Convert ke USD"<<endl;
 	cout<<"Masukkan Jumlah Ethereum Anda : ";
+	
+	//deklarasi variabel
 	int x;
+	
+	//input
 	cin>>x;
 	double Eth[x], total=0, ratarata=0, usd=0;
 	for(int i=1; i<=x; i++){
