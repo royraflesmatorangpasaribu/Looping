@@ -21,7 +21,7 @@ int main(){
 		cin>>Eth[i];
 		total = total + Eth[i];
 	}
-	cout<<endl;
+	cout<<endl;  //mencetak baris baru
 	ratarata = total/x;
 	usd = total * 4000;
 	system("CLS");
