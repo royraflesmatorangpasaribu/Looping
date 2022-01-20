@@ -16,6 +16,7 @@ int main(){
 	//input
 	cin>>x;
 	double Eth[x], total=0, ratarata=0, usd=0;
+        //looping
 	for(int i=1; i<=x; i++){
 		cout<<"Masukkan Ethereum ke-"<<i<<" : ";
 		cin>>Eth[i];
