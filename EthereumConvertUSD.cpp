@@ -18,7 +18,8 @@ int main(){
 	
         //deklarasi variabel
 	double Eth[x], total=0, ratarata=0, usd=0;
-        //looping
+       
+	//looping
 	for(int i=1; i<=x; i++){
 		cout<<"Masukkan Ethereum ke-"<<i<<" : ";
 		cin>>Eth[i];
