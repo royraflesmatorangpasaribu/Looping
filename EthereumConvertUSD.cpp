@@ -35,4 +35,6 @@ int main(){
 	cout<<"Rata-Rata : "<<ratarata<<" ETH "<<endl;
 	cout<<"Total ETH : "<<total<<" ETH "<<endl;
 	cout<<"Dalam USD : $"<<usd<<endl;
+	
+        return 0;
 }
