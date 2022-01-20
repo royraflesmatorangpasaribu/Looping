@@ -6,6 +6,7 @@ using namespace std;
 
 //fungsi utama
 int main(){
+	
 	cout<<"Program Menghitung Rata-Rata dan Total serta Convert ke USD"<<endl;
 	cout<<"Masukkan Jumlah Ethereum Anda : ";
 	
