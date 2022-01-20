@@ -28,6 +28,7 @@ int main(){
 	cout<<endl;  //mencetak baris baru
 	ratarata = total/x;
 	usd = total * 4000;
+	
 	system("CLS");
 	
 	//output
