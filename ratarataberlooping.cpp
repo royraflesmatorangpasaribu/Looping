@@ -34,6 +34,8 @@ stm(string a){
 	}
 	hasil=0;
 	jumlah=0;
+	
+	//output
 	cout << "APAKAH INGIN MENGHITUNG KEMBALI ?? (Y/N) : ";
 	cin>>loop;		
 }
