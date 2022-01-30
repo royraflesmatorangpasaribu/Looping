@@ -8,7 +8,7 @@ using namespace std;
 int n,i,x,jumlah=0,hasil=0;
 string loop="Y";
 
-//fungsi
+//fungsi utama
 penjumlahan(int N){
 	for(i=1; i<=N; i++){
 		//input
