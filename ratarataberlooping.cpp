@@ -44,6 +44,7 @@ stm(string a){
 int main(){
 	cout << "SELAMAT DATANG DI SISTEM RATA-RATA BILANGAN\n";
 	do{
+		//memanggil fungsi perulangan
 		stm(loop);	
 	}while(loop=="Y");
 	
