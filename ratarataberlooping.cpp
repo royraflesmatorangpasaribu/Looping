@@ -19,7 +19,7 @@ penjumlahan(int N){
 	return jumlah;
 }
 
-//fungsi
+//fungsi pengulangan
 stm(string a){
 	//input
 	cout << "\nMASUKKAN N = ";
