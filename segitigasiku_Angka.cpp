@@ -4,6 +4,7 @@ using namespace std;
 //program dibuat oleh roy rafles matorang pasaribu
 
 int main(){
+	//deklarasi variabel
 	int n=5, x=2;
 	
 	for(int i=0; i<n; i++){
