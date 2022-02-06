@@ -1,6 +1,8 @@
 #include<iostream>
 using namespace std;
 
+//program dibuat oleh roy rafles matorang pasaribu
+
 int main(){
 	int n=5, x=2;
 	
