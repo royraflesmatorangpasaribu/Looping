@@ -13,6 +13,7 @@ int main(){
 			cout<<(x-i)<<" ";
 			x++;
 		}
+		//mencetak baris baru
 		cout<<"\n";
 	}
 	return 0;
