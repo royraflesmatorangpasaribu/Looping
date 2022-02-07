@@ -17,5 +17,6 @@ int main(){
 		//mencetak baris baru
 		cout<<"\n";
 	}
+	//karena menggunakan fungsi main()
 	return 0;
 }
