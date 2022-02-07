@@ -3,6 +3,7 @@ using namespace std;
 
 //program dibuat oleh roy rafles matorang pasaribu
 
+//fungsi utama
 int main(){
 	//deklarasi variabel
 	int n=5, x=2;
