@@ -1,6 +1,7 @@
 #include<iostream>
 using namespace std;
 
+//fungsi utama
 int main(){
 	int n=7, x=1;
 	
