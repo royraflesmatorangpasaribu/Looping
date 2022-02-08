@@ -3,6 +3,7 @@ using namespace std;
 
 //fungsi utama
 int main(){
+	//deklarasi variabel
 	int n=7, x=1;
 	
 	for(int i=1; i<=n; i++){
