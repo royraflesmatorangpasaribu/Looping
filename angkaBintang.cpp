@@ -1,6 +1,8 @@
 #include<iostream>
 using namespace std;
 
+//program dibuat pada 08 Februari 2022
+
 //fungsi utama
 int main(){
 	//deklarasi variabel
