@@ -11,7 +11,7 @@ int main(){
 	//looping 
 	for(int i=1; i<=n; i++){
 		for(int j=1; j<=i; j++){
-			cout<<x++<<"* ";
+			cout<<x++<<"* ";    //beri 1 spasi
 		}
 		//mencetak baris baru
 		cout<<"\n";
