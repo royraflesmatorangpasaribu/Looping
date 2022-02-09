@@ -11,6 +11,7 @@ int main(){
 		for(int j=1; j<=i; j++){
 			cout<<x++<<"* ";
 		}
+		//mencetak baris baru
 		cout<<"\n";
 	}
 	return 0;
