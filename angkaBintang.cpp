@@ -2,7 +2,7 @@
 using namespace std;
 
 //program dibuat pada 08 Februari 2022
-//oleh royrafmp
+//oleh oleh roy rafles matorang pasaribu
 
 //fungsi utama
 int main(){
