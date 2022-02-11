@@ -3,6 +3,7 @@ using namespace std;
 
 //dibuat pada 11 februari 2022
 
+//fungsi utama
 int main(){
 	int i, j;
 	int n=4, x=1;
