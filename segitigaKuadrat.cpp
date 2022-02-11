@@ -5,6 +5,7 @@ using namespace std;
 
 //fungsi utama
 int main(){
+	//deklarasi variabel
 	int i, j;
 	int n=4, x=1;
 	
