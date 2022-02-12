@@ -16,6 +16,7 @@ int main(){
 			cout<<(x*x)<<"  ";
 			x++;
 		}
+		//memcetak baris baru
 		cout<<endl;
 	}
 	return 0;
