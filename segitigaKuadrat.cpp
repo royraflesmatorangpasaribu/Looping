@@ -13,7 +13,7 @@ int main(){
 	//looping
 	for(i=1; i<=n; i++){
 		for(j=1; j<=i; j++){
-			cout<<(x*x)<<"  ";
+			cout<<(x*x)<<"  "; // 2 spasi
 			x++;
 		}
 		//memcetak baris baru
