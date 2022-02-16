@@ -1,6 +1,7 @@
 #include<iostream>
 using namespace std;
 
+//fungsi utama
 int main(){
 	int i, j;
 	int n1=0, n2=1, r=n1+n2;
