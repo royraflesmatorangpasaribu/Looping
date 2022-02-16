@@ -15,5 +15,6 @@ int main(){
 		}
 		cout<<"\n";
 	}
+	//karena menggunakan fungsi main()
 	return 0;
 }
