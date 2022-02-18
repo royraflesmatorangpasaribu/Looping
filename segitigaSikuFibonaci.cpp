@@ -3,6 +3,7 @@ using namespace std;
 
 //fungsi utama
 int main(){
+	//deklarasi variabel
 	int i, j;
 	int n1=0, n2=1, r=n1+n2;
 	
